@@ -6,13 +6,11 @@
 <fanart></fanart>
 <info>
 
-
 [COLOR deeppink]|[/COLOR] -FEITO PARA TODA FAMILIA- [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
 <name>SERIES</name>
@@ -36,7 +34,6 @@
 <fanart></fanart>
 <info>
 
-
 [COLOR deeppink]|[/COLOR] -PARA DIVERTIR A CRIANÇADA- [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -51,7 +48,18 @@
 <fanart></fanart>
 <info>
 
-
 [COLOR deeppink]|[/COLOR] -O MELHOR CONTEUDO DA REDE- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>COLETANEAS</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart>https://i.imgur.com/Qon38wO.jpg</fanart>
+<info>
+
+[COLOR deeppink]|[/COLOR] -GRANDES COLETANES VARIADAS- [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
